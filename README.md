@@ -235,20 +235,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 ### Project Team
-- **Email**: info@heritagesafar.com
+- **Email**: er.amankumar@hotmail.com
 - **College**: IILM College of Engineering, Greater Noida
 - **Project Type**: Minor College Project (Computer Science)
-
-### Technical Support
-For technical issues or questions:
-1. Check the [Issues](https://github.com/yourusername/heritage-safar/issues) section
-2. Create a new issue with detailed description
-3. Contact the development team via email
-
-### Business Inquiries
-For partnerships or business-related queries:
-- Email: business@heritagesafar.com
-- Phone: +91 98765 43210
 
 ---
 
